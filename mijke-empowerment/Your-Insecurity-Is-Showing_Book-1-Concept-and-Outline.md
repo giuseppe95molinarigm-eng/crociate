@@ -766,7 +766,7 @@ The counts below refer to the future manuscript (body text only, including each 
 | **Core question** | "What am I doing out of fear?" | "What do I want, and what am I building?" |
 | **Direction** | Subtraction: stop the reflexes that keep you small | Addition: build the standards, habits and ambitions that move you forward |
 | **Starting point** | Reactive habits: apologising, pleasing, comparing, waiting | Deliberate choices: setting standards, taking up space, pursuing goals |
-| **Signature tool** | The Tell Check (Spot, Story, Cost, Trade) | Its own signature tool, to be defined in Book 2's outline (not a repeat of the Tell Check) |
+| **Signature tool** | The Tell Check (Spot, Story, Cost, Trade) | Its own signature tool, the Pre-Decision (Want, Line, Move, Review), used before a situation rather than during it |
 | **The reader at the end** | Catches and interrupts insecure behaviour; trusts herself on a small scale | Leads her life with clear standards, confidence and ambition |
 
 **In short:** Book 1 stops insecurity from making her decisions. Book 2 teaches her to make bigger, bolder decisions on purpose.
